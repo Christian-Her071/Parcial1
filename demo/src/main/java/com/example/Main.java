@@ -13,7 +13,7 @@ public class Main {
         //Libro2 contructor vacio
         Libro libro2 = new Libro();
 
-        System.out.println("Ingre el titulo del libro: ");
+        System.out.println("Ingrese el titulo del libro: ");
         libro2.setTitulo(sc.nextLine());
 
         System.out.println("Ingrese autor: ");
